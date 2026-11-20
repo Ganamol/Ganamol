@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Gana! 👋
 
-<!--
-**Ganamol/Ganamol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Head | Software Developer | Technical Trainer
 
-Here are some ideas to get you started:
+I'm a passionate software developer and technical trainer at **Futura Labs**, specializing in building web applications and mentoring aspiring developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills**
+- **Backend:** C#, ASP.NET Core MVC, ASP.NET, PHP,LRAVEL
+- **Frontend:** HTML, CSS,Bootstrap, JavaScript
+- **Database:** Microsoft SQL Server, MySQL
+- **Development:** Web Application Development, API Integration, CRUD Operations
+- **Tools:** Visual Studio, VS Code, Git & GitHub
+
+👨‍🏫 **What I Do**
+- Lead technical development and training activities.
+- Develop web applications using .NET and PHP.
+- Train students in programming and web development.
+- Guide students through real-world projects.
+- Encourage practical learning and problem-solving.
+
+🚀 **Current Focus**
+- ASP.NET Core MVC Development
+- PHP Web Application Development
+- REST API Development
+- AI Integration in Web Applications
+
+💡 **My Goal:** Build innovative software solutions and empower the next generation of developers through practical training.
+
+📍 Technical Head & Trainer – Futura Labs
+
+
